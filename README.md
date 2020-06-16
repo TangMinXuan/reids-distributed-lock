@@ -1,4 +1,4 @@
-# reids-distributed-lock
+# reids-distributed-lock v1.0
 
 
 ## 是什么?
